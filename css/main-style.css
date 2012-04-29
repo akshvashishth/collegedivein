@@ -184,6 +184,11 @@ header img#man
 {
 	padding-top:5px;
 }
+.images img 
+{
+    display:inline;
+}
+
 #content
 {
 	width:56%;
